@@ -2,7 +2,7 @@
 
 
 
-Welcome to the Online Multiplayer Web3 NFT Card Game, powered by Avalanche! This game allows you to create your own characters, engage in live battles, and choose your battleground. Experience real-time battles with stunning designs and interactive gameplay.
+Welcome to the Online Multiplayer Web3 NFT Card Game, powered by Dymension! This game allows you to create your own characters, engage in live battles, and choose your battleground. Experience real-time battles with stunning designs and interactive gameplay.
 
 ## Game Rules
 
